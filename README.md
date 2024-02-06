@@ -1,4 +1,4 @@
-# FUnIE-GAN-PyTorch
+Replicating # FUnIE-GAN-PyTorch
 
 PyTorch implementations of the [paper](https://arxiv.org/pdf/1903.09766.pdf).
 
